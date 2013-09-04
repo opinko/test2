@@ -12,6 +12,7 @@
     <description>
         An example for Mobileweb . 
     </description>
+    <icon src="icons.png" gap:platform="android" />
 
     <author href="http://www.zadako.sk" email="toth@zadako.sk">
         Tomato
