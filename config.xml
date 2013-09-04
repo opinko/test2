@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Mobile App test</name>
+    <name>Mobile test</name>
 
     <description>
-        An example for Mobile. 
+        An example for Mobileweb . 
     </description>
 
     <author href="http://www.zadako.sk" email="toth@zadako.sk">
